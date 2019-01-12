@@ -1,0 +1,58 @@
+Exercícios Resolvidos
+
+Expressão Condicional.
+
+
+
+<expressao1> if <condicao> else <expressao2>
+
+
+Primeiro, a condição é avaliada (ao invés de expressao1), se a condição for verdadeira, expressao1 é avaliada e seu valor é retornado; caso contrário,
+expressao2 é avaliada e seu valor retornado.
+
+
+
+exemplo:
+
+x = 10
+print ("par" if x % 2 == 0 else "impar
+")
+
+00 -  Como utilizar o "Operador ternãrio"(um exemplo de if simplificado)
+
+onde você normalmente utilizaria:
+
+if media >= 7:
+	print("Aprovado!")
+else:
+	print("Reprovado.")
+
+você pode usar:
+
+print("aprovado" if media >= 7 else "Reprovado")
+
+OBS: as duas formas estão corretas, mas a segunda é mais elegante!
+
+# Print utilizando o %
+%d = inteiro
+%s = string
+%f = float
+%.2f = float 2 casas
+
+print("A diferença entre os números %d e %d é igual a %d!".format(numero1, numero2, diferenca))
+substitui o format por % sem o ponto
+print("A diferença entre os números %d e %d é igual a %d!" % (numero1, numero2, diferenca))
+(numero1, numero2, (numero1 * numero2))) também é aceito!
+%.2f = float 2 casas (usar esse no lugar do round)
+
+<https://docs.python.org/3/library/math.html>
+
+<https://pythonhelp.wordpress.com/2012/02/25/por-que-for-i-in-rangex-y/>
+<http://excript.com/python/funcao-range-python.html>
+<https://www.tutorialspoint.com/python/python_dictionary.htm>
+<https://www.tutorialspoint.com/python/dictionary_keys.htm>
+<https://wiki.python.org/moin/DictionaryKeys>
+
+
+Curso de Python - Aula 4 - Mais Números e a Biblioteca Math:
+<http://blog.evaldojunior.com.br/aulas/python/2008/11/16/curso-de-python-aula-4-mais-numeros-e-a-biblioteca-math.html>

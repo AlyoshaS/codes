@@ -1,0 +1,31 @@
+- Como executar um programa no Python:
+https://www.youtube.com/watch?v=5Zq3LTEz4ao
+
+- Curso de Python da Coursera no youtube:
+
+https://www.youtube.com/watch?v=UZ7_oudJ150&list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn&index=6
+
+
+
+Heisenberg(Fedora) - Hoje às 22:10
+@Aly K. 2. Faça um programa que leia um número real e o imprima.
+
+
+str(input("Hello baby")(editado)
+
+Heisenberg(Fedora) - Hoje às 22:10
+@Aly K. Só lembrando que um número real é float()(editado)
+1.000
+1.54
+.124578
+-L - Hoje às 22:10
+0.666
+
+Olha
+Aqui tirou o quadrado o.O
+Xover
+>>> num = float(input("Digite um numero"))
+Digite um numero1.5
+>>> print (num**2)
+2.25
+>>>

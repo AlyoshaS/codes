@@ -1,0 +1,67 @@
+https://pt.wikipedia.org/wiki/Isabel_Bathory
+
+https://www.youtube.com/watch?v=sXankgl9IJo
+
+https://www.youtube.com/watch?v=JfN2ZmwlXc0
+
+https://www.youtube.com/watch?v=aW85s8wX1LE
+
+no unbuntu:
+Então...
+Você pode usar o Gedit
+Sublime text
+Dai você tem que dar permissões de execução no arquivo .py
+sudo chmod +x code.py
+e depois executar ele
+python code.py
+Se no inicio do arquivo, você colocar
+
+#!/usr/bin/python
+Você pode rodar ele assim:
+
+./code.py
+No seu caso é 3
+#!/usr/bin/python3
+
+Aprenda algoritmos e brinque com as linguagens
+Procure alguns pseudo-códigos
+E pega umas 4 5 linguagens
+E faça o mesmo algoritmo nas 5
+
+Programaççao - 
+
+https://www.youtube.com/watch?v=eTKB6of96GQ
+
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md
+
+http://wiki.python.org.br/AprendaProgramar
+
+http://www.veduca.com.br/
+https://www.coursera.org/
+http://www.cursou.com.br/
+http://www.cursoemvideo.com/
+
+https://ghostbin.com/paste/mes4f
+com esse pastebin e um cc adobe photoshop qualquer
+qualquer um pega praticamente qualquer facebook
+todo email que você usa, tem suportes que são fáceis de manipular
+eu sei porque eu tinha grupos grandes
+então eu acabava sendo um alvo recorrente
+acabei aprendendo uma hora
+
+PRA VER QUANDO ESTIVER TRISTE http://giphy.com/gifs/l3q2t7IoZPKgZfAWc
+
+https://www.youtube.com/watch?v=LN8ejPwSzkU&index=4&list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn
+
+https://www.youtube.com/watch?v=Tv-QPn_9I-8
+
+- Hellstorm
+
+Ouve esses artistas
+Djonga
+Froid
+Primeiramente
+Mozart Mz
+Fábio Braza
+Bacu Exu do Blues
+

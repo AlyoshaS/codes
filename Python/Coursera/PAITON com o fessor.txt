@@ -1,0 +1,49 @@
+Isso tu faz fora
+soma = 2 + 2
+print(soma)
+Tu joga o resultado de uma operação em uma var
+E imprime a a var
+Isso!
+A operação tu faz fora do print(editado)
+
+Ex:
+numero1 = int(input("Digite o primeiro valor 1"))
+numero2 = int(input("Digite o segundo valor"))
+
+soma = numero1 + numero2
+
+print(soma)
+(editado)
+
+Isso!
+Sabe pq?
+O input serve pra pegar um valor do teclado
+Ele vai mostrar na tela do usuário:
+
+Digite o primeiro valor ->  15
+Eu digitei 15
+Qual o valor que a variável numero1 vai ter?
+Exato!
+Agora...
+O int sabe pq?
+ISSO!
+Operações matemáticas
+Só podem ser feitas com inteiros
+E o input
+Recebe uma STRING!
+ISSO!
+ISSO menina!
+Ele revebe a string
+passa pra int
+depois joga em numero1
+Quer instalar?
+Instala algo simples(editado)
+ISSO!
+Sempre
+.py
+Já salva eme como .py
+aly.py
+lucas.py
+vai uma dica
+Mas só vai rolar em linux
+Depois eu falo
